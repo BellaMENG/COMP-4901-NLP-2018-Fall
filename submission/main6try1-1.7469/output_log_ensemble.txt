@@ -1,0 +1,26 @@
+
+########################################################################
+#      Date:           Sun Dec 16 00:39:20 PST 2018
+#    Job ID:           5623.c009
+#      User:           u20873
+# Resources:           neednodes=1:ppn=2,nodes=1:ppn=2,walltime=06:00:00
+########################################################################
+
+Start of calculation
+Your score on validation data: 1.7469
+==================================================
+[60  / 100] Baseline: 2.6795 
+[80  / 100] Baseline: 1.9034 
+[90  / 100] Baseline: 1.7830 
+                          <- You're here (90pts)
+[100 / 100] Baseline: 1.7345 
+[  BONUS  ] Baseline: 1.6737 
+
+ATTENTION! This submission/score is generated from validation data, 
+you may get 0pts if you submit it on Canvas!
+
+########################################################################
+# End of output for job 5623.c009
+# Date: Sun Dec 16 00:40:13 PST 2018
+########################################################################
+
